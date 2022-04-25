@@ -1,0 +1,17 @@
+D:\Zapi\Grains\bin\Debug\net6.0\Grains.deps.json
+D:\Zapi\Grains\bin\Debug\net6.0\Grains.dll
+D:\Zapi\Grains\bin\Debug\net6.0\Grains.pdb
+D:\Zapi\Grains\bin\Debug\net6.0\Interfaces.dll
+D:\Zapi\Grains\bin\Debug\net6.0\Interfaces.pdb
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.csproj.AssemblyReference.cache
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.orleans.g.args.txt
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.orleans.g.cs
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.AssemblyInfoInputs.cache
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.AssemblyInfo.cs
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.csproj.CoreCompileInputs.cache
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.csproj.CopyComplete
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.dll
+D:\Zapi\Grains\obj\Debug\net6.0\refint\Grains.dll
+D:\Zapi\Grains\obj\Debug\net6.0\Grains.pdb
+D:\Zapi\Grains\obj\Debug\net6.0\ref\Grains.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJH0/rrfKrIl3A1duo/Jl0G37zIvvAXpivQu9vSGKLifSVB0UDONzKGuajtOH7dWCBKgnkNXjVjX79I+/3drOw==",
+  "success": true,
+  "projectFilePath": "D:\\Zapi\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unity\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.6.2\\microsoft.orleans.codegenerator.msbuild.3.6.2.nupkg.sha512",
+    "C:\\Users\\Unity\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.6.2\\microsoft.orleans.core.abstractions.3.6.2.nupkg.sha512",
+    "C:\\Users\\Unity\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Unity\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
