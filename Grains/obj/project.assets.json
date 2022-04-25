@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zapi\\Grains\\Grains.csproj",
+      "projectUniqueName": "D:\\Github\\OrleansWebApi\\Grains\\Grains.csproj",
       "projectName": "Grains",
-      "projectPath": "D:\\Zapi\\Grains\\Grains.csproj",
+      "projectPath": "D:\\Github\\OrleansWebApi\\Grains\\Grains.csproj",
       "packagesPath": "C:\\Users\\Unity\\.nuget\\packages\\",
-      "outputPath": "D:\\Zapi\\Grains\\obj\\",
+      "outputPath": "D:\\Github\\OrleansWebApi\\Grains\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -533,8 +533,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Zapi\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "D:\\Zapi\\Interfaces\\Interfaces.csproj"
+            "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj"
             }
           }
         }

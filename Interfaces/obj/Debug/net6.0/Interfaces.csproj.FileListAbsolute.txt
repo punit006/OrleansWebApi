@@ -12,3 +12,17 @@ D:\Zapi\Interfaces\obj\Debug\net6.0\Interfaces.dll
 D:\Zapi\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
 D:\Zapi\Interfaces\obj\Debug\net6.0\Interfaces.pdb
 D:\Zapi\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+D:\Github\OrleansWebApi\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Github\OrleansWebApi\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Github\OrleansWebApi\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.orleans.g.args.txt
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.orleans.g.cs
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

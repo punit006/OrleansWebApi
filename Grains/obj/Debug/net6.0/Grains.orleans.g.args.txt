@@ -1,14 +1,14 @@
 LogLevel:Warning
-ProjectPath:D:\Zapi\Grains\Grains.csproj
+ProjectPath:D:\Github\OrleansWebApi\Grains\Grains.csproj
 ProjectGuid:
 AssemblyName:Grains
 OutputType:Library
-TargetPath:D:\Zapi\Grains\bin\Debug\net6.0\Grains.dll
-CodeGenOutputFile:D:\Zapi\Grains\obj\Debug\net6.0\Grains.orleans.g.cs
-Compile:D:\Zapi\Grains\ApiListGrain.cs
-Compile:D:\Zapi\Grains\ProfileGrain.cs
-Compile:D:\Zapi\Grains\obj\Debug\net6.0\Grains.GlobalUsings.g.cs
-Reference:D:\Zapi\Interfaces\bin\Debug\net6.0\Interfaces.dll
+TargetPath:D:\Github\OrleansWebApi\Grains\bin\Debug\net6.0\Grains.dll
+CodeGenOutputFile:D:\Github\OrleansWebApi\Grains\obj\Debug\net6.0\Grains.orleans.g.cs
+Compile:D:\Github\OrleansWebApi\Grains\ApiListGrain.cs
+Compile:D:\Github\OrleansWebApi\Grains\ProfileGrain.cs
+Compile:D:\Github\OrleansWebApi\Grains\obj\Debug\net6.0\Grains.GlobalUsings.g.cs
+Reference:D:\Github\OrleansWebApi\Interfaces\bin\Debug\net6.0\Interfaces.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\Microsoft.CSharp.dll
 Reference:C:\Users\Unity\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\lib\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\Microsoft.VisualBasic.Core.dll
@@ -171,4 +171,4 @@ Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\System.Xml.XPath.XDocument.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\WindowsBase.dll
 DefineConstants:TRACE,DEBUG,NET,NET6_0,NETCOREAPP
-InputHash:6d273b9e405b30ddc294d9447c991ed6425ad317
+InputHash:785b474573c7b15175b702b705268d38ad25b5dd

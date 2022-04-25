@@ -424,11 +424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zapi\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "D:\\Zapi\\Interfaces\\Interfaces.csproj",
+      "projectPath": "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\Unity\\.nuget\\packages\\",
-      "outputPath": "D:\\Zapi\\Interfaces\\obj\\",
+      "outputPath": "D:\\Github\\OrleansWebApi\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

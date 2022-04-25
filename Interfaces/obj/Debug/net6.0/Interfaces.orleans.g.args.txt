@@ -1,13 +1,13 @@
 LogLevel:Warning
-ProjectPath:D:\Zapi\Interfaces\Interfaces.csproj
+ProjectPath:D:\Github\OrleansWebApi\Interfaces\Interfaces.csproj
 ProjectGuid:
 AssemblyName:Interfaces
 OutputType:Library
-TargetPath:D:\Zapi\Interfaces\bin\Debug\net6.0\Interfaces.dll
-CodeGenOutputFile:D:\Zapi\Interfaces\obj\Debug\net6.0\Interfaces.orleans.g.cs
-Compile:D:\Zapi\Interfaces\IApiList.cs
-Compile:D:\Zapi\Interfaces\IProfile.cs
-Compile:D:\Zapi\Interfaces\obj\Debug\net6.0\Interfaces.GlobalUsings.g.cs
+TargetPath:D:\Github\OrleansWebApi\Interfaces\bin\Debug\net6.0\Interfaces.dll
+CodeGenOutputFile:D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.orleans.g.cs
+Compile:D:\Github\OrleansWebApi\Interfaces\IApiList.cs
+Compile:D:\Github\OrleansWebApi\Interfaces\IProfile.cs
+Compile:D:\Github\OrleansWebApi\Interfaces\obj\Debug\net6.0\Interfaces.GlobalUsings.g.cs
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\Microsoft.CSharp.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\Microsoft.VisualBasic.Core.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\Microsoft.VisualBasic.dll
@@ -169,4 +169,4 @@ Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\System.Xml.XPath.XDocument.dll
 Reference:C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.4\ref\net6.0\WindowsBase.dll
 DefineConstants:TRACE,DEBUG,NET,NET6_0,NETCOREAPP
-InputHash:d98b8f00b5b1d61c883879db676436193328e8f3
+InputHash:b97c33986105cc4c72fd22d3b2d30ddf6b96b38f

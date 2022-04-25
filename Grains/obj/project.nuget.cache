@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLBOLnoCEfEOUVRn2Thl6MZ2Rpj13AdfuWcdlDFOTWuKz0VgrwT964zndN4Au2N9AL/g4jWH2KasB2+dbBEynQ==",
+  "dgSpecHash": "MIfApSa4UZ2/XjqGZXCdyiJXM9Jj2fXylzzD01itfyB5VKesVRw+IFTBYm/NUrdInkXUMkMl93TD2vXqFYsA6A==",
   "success": true,
-  "projectFilePath": "D:\\Zapi\\Grains\\Grains.csproj",
+  "projectFilePath": "D:\\Github\\OrleansWebApi\\Grains\\Grains.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.6.2\\microsoft.orleans.codegenerator.msbuild.3.6.2.nupkg.sha512",

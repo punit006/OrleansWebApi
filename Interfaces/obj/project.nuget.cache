@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJH0/rrfKrIl3A1duo/Jl0G37zIvvAXpivQu9vSGKLifSVB0UDONzKGuajtOH7dWCBKgnkNXjVjX79I+/3drOw==",
+  "dgSpecHash": "7H8u/bnoBE9Dbw4U/sGhRJXOL6f+p2cgIv9Ak3uq4iH30FALhkGisSmtZJ6II/uBp0OIEzQfbslLIfbFVWWDYw==",
   "success": true,
-  "projectFilePath": "D:\\Zapi\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.orleans.codegenerator.msbuild\\3.6.2\\microsoft.orleans.codegenerator.msbuild.3.6.2.nupkg.sha512",
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.orleans.core.abstractions\\3.6.2\\microsoft.orleans.core.abstractions.3.6.2.nupkg.sha512",

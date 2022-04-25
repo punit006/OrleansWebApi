@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RfoP8G+yQ9wV++0znGehNLJ5ratSlk72gOX6sCxcRV/A+E6+osuW3EDPO7IxIENgMJ/7YubMxZZmhgrg9MN7gA==",
+  "dgSpecHash": "El9mthY++A0PeihPeWJetTl6KVN5Fjjewnp9QPe5qGdRAjSFBSMqRNi0gMIVWuKoEg0vBhRp+hbzezoXAHTCbQ==",
   "success": true,
-  "projectFilePath": "D:\\Zapi\\Silo\\Silo.csproj",
+  "projectFilePath": "D:\\Github\\OrleansWebApi\\Silo\\Silo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.0\\microsoft.aspnetcore.connections.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Unity\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

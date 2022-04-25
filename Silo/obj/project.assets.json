@@ -2818,11 +2818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zapi\\Silo\\Silo.csproj",
+      "projectUniqueName": "D:\\Github\\OrleansWebApi\\Silo\\Silo.csproj",
       "projectName": "Silo",
-      "projectPath": "D:\\Zapi\\Silo\\Silo.csproj",
+      "projectPath": "D:\\Github\\OrleansWebApi\\Silo\\Silo.csproj",
       "packagesPath": "C:\\Users\\Unity\\.nuget\\packages\\",
-      "outputPath": "D:\\Zapi\\Silo\\obj\\",
+      "outputPath": "D:\\Github\\OrleansWebApi\\Silo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2842,11 +2842,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Zapi\\Grains\\Grains.csproj": {
-              "projectPath": "D:\\Zapi\\Grains\\Grains.csproj"
+            "D:\\Github\\OrleansWebApi\\Grains\\Grains.csproj": {
+              "projectPath": "D:\\Github\\OrleansWebApi\\Grains\\Grains.csproj"
             },
-            "D:\\Zapi\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "D:\\Zapi\\Interfaces\\Interfaces.csproj"
+            "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "D:\\Github\\OrleansWebApi\\Interfaces\\Interfaces.csproj"
             }
           }
         }
